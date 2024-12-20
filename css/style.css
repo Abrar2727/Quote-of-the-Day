@@ -1,0 +1,33 @@
+.home {
+    background-image: url(../sunset-8589496_1920.jpg);
+    height: 100vh;
+    position: relative;
+}
+
+h1 {
+    color: #031929;
+}
+
+p {
+    color: #55697B;
+    font-size: 26px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.layer {
+    height: 100vh;
+}
+
+.cont {
+    height: 75vh;
+    width: 70%;
+    background-image: url(../sunset-8589496_1920.jpg);
+    border-radius: 49px;
+}
+
+.box {
+    background-color: rgba(255, 255, 255, 0.7);
+    border-radius: 40px;
+    height: 75vh;
+    width: 100%;
+}
